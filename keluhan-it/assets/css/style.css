@@ -1,0 +1,39 @@
+body {
+    font-family: 'Wix Madefor Display', sans-serif;
+}
+.sz_ic {
+    width: 300px;
+}
+.bg-greens {
+    background-color: #73c331;
+}
+.bg-orange {
+    background-color: #f3a249;
+}
+.txt-greens {
+    color: #73c331;
+}
+.txt-orange {
+    color: #f3a249;
+}
+.btn-greens {
+    background-color: #73c331;
+    border: none;
+    border-radius: 10px;
+    padding: 8px;
+    color: #fff;
+    font-weight: 800;
+    width: 100%;
+}
+.btn-orange {
+    background-color: #f3a149;
+    border: none;
+    border-radius: 10px;
+    padding: 8px;
+    color: #fff;
+    font-weight: 800;
+    width: 100%;
+}
+.my_ic{
+    margin-top: 4%;
+}

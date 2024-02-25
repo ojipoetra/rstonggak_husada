@@ -1,0 +1,90 @@
+[
+    {
+        "maskapai": "Adam Air",
+        "bandaraAsal": "Soekarno-Hatta (CGK)",
+        "bandaraTujuan": "Hasanuddin (UPG)",
+        "hargaTiket": "150000",
+        "pajak": 120000,
+        "totalHarga": 270000
+    },
+    {
+        "maskapai": "Adam Air",
+        "bandaraAsal": "Soekarno-Hatta (CGK)",
+        "bandaraTujuan": "Inanwatan (INX)",
+        "hargaTiket": "120000",
+        "pajak": 140000,
+        "totalHarga": 260000
+    },
+    {
+        "maskapai": "Adam Air",
+        "bandaraAsal": "Juanda (SUB)",
+        "bandaraTujuan": "Hasanuddin (UPG)",
+        "hargaTiket": "250000",
+        "pajak": 110000,
+        "totalHarga": 360000
+    },
+    {
+        "maskapai": "Adam Air",
+        "bandaraAsal": "Juanda (SUB)",
+        "bandaraTujuan": "Hasanuddin (UPG)",
+        "hargaTiket": "250000",
+        "pajak": 110000,
+        "totalHarga": 360000
+    },
+    {
+        "maskapai": "Batik",
+        "bandaraAsal": "Abdul Rachman Saleh (MLG)",
+        "bandaraTujuan": "Ngurah Rai (DPS)",
+        "hargaTiket": "35000",
+        "pajak": 120000,
+        "totalHarga": 155000
+    },
+    {
+        "maskapai": "Citilink",
+        "bandaraAsal": "Abdul Rachman Saleh (MLG)",
+        "bandaraTujuan": "Hasanuddin (UPG)",
+        "hargaTiket": "150000",
+        "pajak": 110000,
+        "totalHarga": 260000
+    },
+    {
+        "maskapai": "Batik",
+        "bandaraAsal": "Soekarno-Hatta (CGK)",
+        "bandaraTujuan": "Sultan Iskandarmuda (BTJ)",
+        "hargaTiket": "50000",
+        "pajak": 120000,
+        "totalHarga": 170000
+    },
+    {
+        "maskapai": "Citilink",
+        "bandaraAsal": "Husein Sastranegara (BDO)",
+        "bandaraTujuan": "Hasanuddin (UPG)",
+        "hargaTiket": "250000",
+        "pajak": 100000,
+        "totalHarga": 350000
+    },
+    {
+        "maskapai": "Garuda Indonesia",
+        "bandaraAsal": "Soekarno-Hatta (CGK)",
+        "bandaraTujuan": "Ngurah Rai (DPS)",
+        "hargaTiket": "150000",
+        "pajak": 130000,
+        "totalHarga": 280000
+    },
+    {
+        "maskapai": "Garuda Indonesia",
+        "bandaraAsal": "Abdul Rachman Saleh (MLG)",
+        "bandaraTujuan": "Hasanuddin (UPG)",
+        "hargaTiket": "170000",
+        "pajak": 110000,
+        "totalHarga": 280000
+    },
+    {
+        "maskapai": "Citilink",
+        "bandaraAsal": "Abdul Rachman Saleh (MLG)",
+        "bandaraTujuan": "Ngurah Rai (DPS)",
+        "hargaTiket": "250000",
+        "pajak": 120000,
+        "totalHarga": 370000
+    }
+]

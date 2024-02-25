@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mudik Sehat 2023 | rstonggakhusada.co.id</title>
+
+    <!-- Boostrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N"
+        crossorigin="anonymous"></script>
+
+    <!-- Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Icon -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+
+
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="row py-5 px-5 d-flex justify-content-center align-items-center">
+            <div class="col-lg-6 col-12">
+                <div class="py-3">
+                    <img src="img/ppLogo.png" alt="" class="img-size">
+                </div>
+                <h1>#<span class="text-color-mudik">MudikSehat</span>2023</h1>
+                <p>Menjelang mudik 2023 ini kami menghimbau kepada semua yang akan berpergian untuk berhati-hati</p>
+                <p>Jaga Kesehatan dan Keselamtan yah karena <b><i>"Keluargamu menanti dirumah"</i></b></p>
+                <div class="mb-3">
+                    <button class="btn-peta-kuliner" onclick="JavaScript:window.location.href='php/download.php?file=MUDIKSEHAT_TGH2023.pdf';"><i class="bi bi-download fs-5"> Download Peta
+                            Kuliner</i></button>
+                </div>
+            </div>
+            <div class="col-lg-6 col-12 shadow px-3 py-3 radius-rs">
+                <embed type="application/pdf" src="file/MUDIKSEHAT_TGH2023.pdf" class="pdf-modul"></embed>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <!-- DOWNLOAD JS -->
+    <script>
+        function download(filename, text) {
+            var element = document.createElement('a');
+            element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+            element.setAttribute('download', filename);
+            element.style.display = 'none';
+            document.body.appendChild(element);
+            element.click();
+            document.body.removeChild(element);
+        }
+        document.getElementById("download-btn").addEventListener("click", function () {
+            var text = document.getElementById("text").value;
+            var filename = "file/MUDIKSEHAT_TGH2023.pdf";
+            download(filename, text);
+        }, false);
+    </script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,134 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.beranda-link {
+    text-decoration: none;
+    color: rgb(108, 107, 107);
+}
+
+a:hover {
+    color: #72bb36;
+}
+
+
+/* Button */
+.btn-active-green {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #72bb36;
+    border: 2px solid #72bb36;
+    color: #fff;
+    font-weight: 800;
+    border-radius: 25px;
+}
+.btn-active-green:hover{
+    color: #fff;
+    background-color: #72bb36;
+    border: 2px solid #72bb36;
+}
+.btn-blog {
+    text-decoration: none;
+    padding: 10px 30px;
+    /* background-color: #72bb36; */
+    border: 2px solid #72bb36;
+    color: #72bb36;
+    font-weight: 800;
+    border-radius: 25px;
+
+}
+
+.btn-blog:hover {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #72bb36;
+    border: 2px solid #72bb36;
+    color: #fff;
+    font-weight: 800;
+    border-radius: 25px;
+
+}
+
+.btn-seacrh {
+    text-decoration: none;
+    padding: 10px 30px;
+    /* background-color: #72bb36; */
+    border: 2px solid #72bb36;
+    background-color: transparent;
+    color: #72bb36;
+    font-weight: 800;
+    border-radius: 25px;
+
+}
+
+.btn-seacrh:hover {
+    background-color: #72bb36;
+    color: #fff;
+    border: 2px solid #72bb36;
+
+}
+
+.btn-jadwal-dokter {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #72bb36;
+    color: #fff;
+    font-weight: 500;
+    border: none;
+    border-radius: 25px;
+
+}
+.btn-jadwal-dokter:hover {
+    background-color: #86c84f;
+
+}
+
+
+/* Zoom img */
+.zoom-effect {
+    position: relative;
+    width: 100%;
+    height: 230px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.kotak {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.kotak img {
+    -webkit-transition: 0.4s ease;
+    transition: 0.4s ease;
+    width: 700px;
+}
+
+.zoom-effect:hover .kotak img {
+    -webkit-transform: scale(1.08);
+    transform: scale(1.08);
+}
+/* fx 2 */
+.zoom-effect2 {
+    position: relative;
+    width: 100%;
+    height: 350px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.kotak2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.kotak2 img {
+    -webkit-transition: 0.4s ease;
+    transition: 0.4s ease;
+    width: 700px;
+}
+
+.zoom-effect2:hover .kotak2 img {
+    -webkit-transform: scale(1.08);
+    transform: scale(1.08);
+}

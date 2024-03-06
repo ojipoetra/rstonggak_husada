@@ -144,23 +144,6 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="swiper-slide">
-                            <div class="row rounded shadow">
-                                <div class="col-lg-6">
-                                    <img src="../assets/img/dr/002-1.jpg" alt="" class="rounded size-jadwal-foto">
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="py-3">
-                                        <h2>dr. Chairul Rijal, Sp.OG</h2>
-                                        <h5>Spesialis Kandungan</h5>
-                                        <hr>
-                                    </div>
-                                    <div class="py-2">
-                                        <button class="btn-green-sm" data-bs-toggle="modal" data-bs-target="#staticBackdrop2"><a href="#" style="text-decoration: none; color:#fff;">Lihat Jadwal</a></button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
                         <div class="swiper-slide">
                             <div class="row rounded shadow">
                                 <div class="col-lg-6">
@@ -195,23 +178,6 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="swiper-slide">
-                            <div class="row rounded shadow">
-                                <div class="col-lg-6">
-                                    <img src="../assets/img/dr/005-1.jpg" alt="" class="rounded size-jadwal-foto">
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="py-3">
-                                        <h2>dr. Arif Kurnia Timur, Sp.B, FINACS</h2>
-                                        <h5>Spesialis Bedah</h5>
-                                        <hr>
-                                    </div>
-                                    <div class="py-2">
-                                        <button class="btn-green-sm" data-bs-toggle="modal" data-bs-target="#staticBackdrop5"><a href="#" style="text-decoration: none; color:#fff;">Lihat Jadwal</a></button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
                         <div class="swiper-slide">
                             <div class="row rounded shadow">
                                 <div class="col-lg-6">

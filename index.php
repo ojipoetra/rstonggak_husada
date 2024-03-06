@@ -414,7 +414,7 @@
     <div class="container-fluid" id="drkami">
         <div class="row">
             <div class="col-lg-12 py-3 text-center">
-                <img src="assets/img/dr/all-dr.png" alt="" class="w-75">
+                <img src="assets/img/dr/DOKTER.png" alt="" class="w-75">
                 <a class="line-none">
                     <h1 class="bi bi-chevron-double-down animate__animated animate__bounce text-black"></h1>
                 </a>
@@ -578,7 +578,7 @@
     </a>
 
 
-
+<!-- ubah -->
     <div class="popbox hide" id="popbox">
         <div aria-label='Close' class="pop-overlay" onclick='document.getElementById("popbox").style.display="none";removeClassonBody();' role="button" tabindex="0" />
         <div class="pop-content">
@@ -586,13 +586,13 @@
                 <div class="popcontent">
 
                     <!--<a href="https://wa.me/+6285100579666"><img src="assets/img/content/024.jpg" alt="banner" width="850" height="450" /></a>-->
-                    <a href="mudik_sehat_2023/"><img src="assets/img/content/mudiksehat2023.jpg" alt="banner" width="850" height="450" /></a>
+                    <a href="mudik_sehat_2023/"><img src="assets/img/content/PROMO USG WEB.png" alt="banner" width="100%" height="" /></a>
                 </div>
             </a>
             <button aria-label='Close' class='popbox-close-button' onclick='document.getElementById("popbox").style.display="none";removeClassonBody();'>&times;</button>
         </div>
     </div>
-
+<!-- ubah -->
 
     <script>
         //<![CDATA[

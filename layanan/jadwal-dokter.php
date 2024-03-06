@@ -144,7 +144,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide">
+                        <!-- <div class="swiper-slide">
                             <div class="row rounded shadow">
                                 <div class="col-lg-6">
                                     <img src="../assets/img/dr/002-1.jpg" alt="" class="rounded size-jadwal-foto">
@@ -160,7 +160,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="swiper-slide">
                             <div class="row rounded shadow">
                                 <div class="col-lg-6">
@@ -195,7 +195,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide">
+                        <!-- <div class="swiper-slide">
                             <div class="row rounded shadow">
                                 <div class="col-lg-6">
                                     <img src="../assets/img/dr/005-1.jpg" alt="" class="rounded size-jadwal-foto">
@@ -211,7 +211,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="swiper-slide">
                             <div class="row rounded shadow">
                                 <div class="col-lg-6">

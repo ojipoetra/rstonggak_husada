@@ -255,6 +255,7 @@
                     <h1 class="modal-title fs-5" id="staticBackdropLabel">Jadwal Praktik RS Tonggak Husada</h1>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
+                <!-- jadwal dokter gazali -->
                 <div class="modal-body">
                     <div class="py-3">
                         <div class="row">
@@ -305,57 +306,6 @@
     </div>
 
     <!-- Modal -->
-    <div class="modal modal-lg fade" id="staticBackdrop2" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Jadwal Praktik RS Tonggak Husada</h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <div class="py-3">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <img src="../assets/img/dr/002-1.jpg" alt="" class="w-100 rounded">
-                            </div>
-                            <div class="col-md-6 py-1">
-                                <h3>dr. Chairul Rijal, Sp.OG</h3>
-                                <h5 class="opacity-75">Spesialis Kandungan</h5>
-                                <hr>
-                                <table class="table table-hover">
-                                    <thead>
-                                        <tr>
-                                            <th scope="col">Hari</th>
-                                            <th scope="col">Jam Praktik</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>Senin</td>
-                                            <td>13.30 - 15.30 WIB</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Selasa</td>
-                                            <td>13.30 - 15.30 WIB</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Rabu</td>
-                                            <td>13.30 - 15.30 WIB</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Kamis</td>
-                                            <td>13.30 - 15.30 WIB</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
     <!-- Modal -->
     <div class="modal modal-lg fade" id="staticBackdrop3" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
         <div class="modal-dialog">
@@ -371,7 +321,7 @@
                                 <img src="../assets/img/dr/003-1.jpg" alt="" class="w-100 rounded">
                             </div>
                             <div class="col-md-6 py-1">
-                                <h3>dr. Aulia Thabrani, Sp.B</h3>
+                                <h3>dr. Aulia Thabrani, Sp.B.FINACS</h3>
                                 <h5 class="opacity-75">Spesialis Bedah</h5>
                                 <hr>
                                 <table class="table table-hover">
@@ -384,7 +334,7 @@
                                     <tbody>
                                         <tr>
                                             <td>Senin</td>
-                                            <td>08.00 - 12.00 WIB</td>
+                                            <td>16.00 - 19.00 WIB</td>
                                         </tr>
                                         <tr>
                                             <td>Selasa</td>
@@ -392,7 +342,7 @@
                                         </tr>
                                         <tr>
                                             <td>Rabu</td>
-                                            <td>08.00 - 12.00 WIB</td>
+                                            <td>16.00 - 19.00 WIB</td>
                                         </tr>
                                         <tr>
                                             <td>Kamis</td>
@@ -479,66 +429,6 @@
         </div>
     </div>
     <!-- Modal -->
-    <div class="modal modal-lg fade" id="staticBackdrop5" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Jadwal Praktik RS Tonggak Husada</h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <div class="py-3">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <img src="../assets/img/dr/005-1.jpg" alt="" class="w-100 rounded">
-                            </div>
-                            <div class="col-md-6 py-1">
-                                <h3>dr. Arif Kurnia Timur, Sp.B, Finacs</h3>
-                                <h5 class="opacity-75">Spesialis Bedah</h5>
-                                <hr>
-                                <table class="table table-hover">
-                                    <thead>
-                                        <tr>
-                                            <th scope="col">Hari</th>
-                                            <th scope="col">Jam Praktik</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>Senin</td>
-                                            <td>07.00 - 08.00 & 16.00 - 20.00 WIB</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Selasa</td>
-                                            <td>07.00 - 08.00 & 16.00 - 20.00 WIB</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Rabu</td>
-                                            <td>07.00 - 08.00 & 16.00 - 20.00 WIB</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Kamis</td>
-                                            <td>07.00 - 08.00 & 16.00 - 20.00 WIB</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Jum'at</td>
-                                            <td>07.00 - 08.00 & 16.00 - 20.00 WIB</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Sabtu</td>
-                                            <td>07.00 - 09.00 & 16.00 - 20.00 WIB</td>
-                                        </tr>
-
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
     <!-- Modal -->
     <div class="modal modal-lg fade" id="staticBackdrop6" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
         <div class="modal-dialog">
@@ -565,10 +455,6 @@
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <!-- <tr>
-                                            <td>Senin</td>
-                                            <td>12.00 - 16.00 WIB</td>
-                                        </tr> -->
                                         <tr>
                                             <td>Selasa</td>
                                             <td>08.00 - 12.00 WIB</td>
@@ -585,10 +471,6 @@
                                             <td>Jum'at</td>
                                             <td>08.00 - 12.00 WIB</td>
                                         </tr>
-                                        <!-- <tr>
-                                            <td>Sabtu</td>
-                                            <td>12.00 - 16.00 WIB</td>
-                                        </tr> -->
 
                                     </tbody>
                                 </table>
@@ -631,11 +513,11 @@
                                         </tr>
                                         <tr>
                                             <td>Selasa</td>
-                                            <td>09.00 - 12.00 WIB</td>
+                                            <td>14.00 - 17.00 WIB</td>
                                         </tr>
                                         <tr>
                                             <td>Rabu</td>
-                                            <td>17.00 - 20.00 WIB</td>
+                                            <td>16.00 - 19.00 WIB</td>
                                         </tr>
                                         <tr>
                                             <td>Kamis</td>
